@@ -28,3 +28,25 @@
     width: 11pc;
     height: 22pc;
 }
+#seven {
+    width: 70vw;
+    height: 70vh;
+    background-color: grey;
+}
+#eight {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(7, 61, 6);
+
+}
+#nine {
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(147, 192, 192);
+}
+#textone {
+    font-size: 2em;
+}
+#texttwo {
+    font-size: 3rem;
+}
